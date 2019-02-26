@@ -1,5 +1,6 @@
 
 # Nastassia Dzenisenka #
+[![My photo](//placehold.it/150x100)](https://pp.userapi.com/c845217/v845217047/c7b81/QXe1mlA07eI.jpg)
 ## Summary ##
  The main goal of the training is to start a Junior career and continue to grow up to a team leader.
  Among the main qualities are:
@@ -16,7 +17,7 @@
 * CSS 
 * JavaScript 
 ## Education ##
-*Study on the 3rd course of BSEU, Low Faculty 
+* Study on the 3rd course of BSEU, Low Faculty 
 * RSS now 
 ## Languages ## 
 English A2, Russian 
