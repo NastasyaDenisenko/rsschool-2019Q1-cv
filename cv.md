@@ -1,6 +1,7 @@
 
+# Curriculum Vitae #
+# Junior Front-end developer #
 # Nastassia Dzenisenka #
-[![My photo](//placehold.it/150x100)](https://pp.userapi.com/c845217/v845217047/c7b81/QXe1mlA07eI.jpg)
 ## Summary ##
  The main goal of the training is to start a Junior career and continue to grow up to a team leader.
  Among the main qualities are:
