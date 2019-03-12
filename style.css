@@ -6,9 +6,15 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: #e0ceba;
+    border: 3px solid black;
 }
 
 li{
     list-style: none;
 }
 
+.photo {
+    width: 250px;
+    height: 300px;
+}
